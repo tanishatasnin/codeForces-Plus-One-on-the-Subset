@@ -7,7 +7,7 @@ int main()
                while (t--)
                {
                               cin >> n;
-                              int a[n + 9];
+                              int a[n];
                               for (i = 0; i < n; i++)
                                              cin >> a[i];
                               sort(a, a + n);
